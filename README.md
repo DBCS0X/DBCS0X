@@ -3,7 +3,7 @@
 
 
   <a href="https://github.com/DBCS0X">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Caio!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Evoluindo." alt="Animação de apresentação"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Dennis!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Evoluindo." alt="Animação de apresentação"/>
   </a>
 
   <br/>
