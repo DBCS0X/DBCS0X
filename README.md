@@ -39,4 +39,49 @@
 <p align="center">
   Um projeto desenvolvido em Python com o objetivo principal de praticar o trabalho em equipe.  
   Foi essencial para dominar o fluxo completo do Git: criação de branches, pull requests, revisão de código e resolução de conflitos em um ambiente colaborativo real.<br/><br/>
-  <
+  <strong>Tecnologias:</strong> Python, Git e GitHub.<br/>
+  <a href="https://github.com/DBCS0X/Desafio_colaborativo_Git">
+    <img src="https://img.shields.io/badge/Ver%20projeto-FF8C00?style=plastic&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<h3 align="center">📊 Modelo de Vendas e Estoque</h3>
+<p align="center">
+  Sistema acadêmico criado para modelar, organizar e gerenciar o fluxo de informações comerciais e o controle de níveis de mercadoria.  
+  O foco foi aplicar conceitos de modelagem de dados e lógica de programação em um cenário próximo ao mundo real.<br/><br/>
+  <strong>Tecnologias:</strong> Python e Modelagem de Dados.<br/>
+  <a href="https://github.com/DBCS0X/MVE-MOELO-DE-VENDAS-E-ESTOQUE">
+    <img src="https://img.shields.io/badge/Ver%20projeto-FF4500?style=plastic&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<h2 align="center">🎯 Objetivos</h2>
+<div align="center">
+  <p>📚 Aprimorar continuamente meus conhecimentos em programação e fundamentos da computação.</p>
+  <p>💻 Desenvolver projetos práticos e acadêmicos que realmente resolvam problemas.</p>
+  <p>🚀 Explorar e aprender novas tecnologias de forma consistente.</p>
+  <p>🌐 Evoluir como desenvolvedor de software, com foco em qualidade e boas práticas.</p>
+  <p>🤝 Conquistar experiência profissional sólida na área de Tecnologia da Informação.</p>
+  <p>🔐 Aprofundar conhecimentos em programação e proteção de dados.</p>
+</div>
+
+<h2 align="center">📫 Entre em contato</h2>
+<div align="center">
+  <a href="https://github.com/DBCS0X">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=FFD700"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dennis-brayan-conceição-da-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dennisbrayan722@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-FF4500?style=plastic&logo=gmail&logoColor=white"/>
+  </a>
+  <br/><br/>
+
+  <!-- Mimikyu girando no estilo vinil -->
+  <img src="https://media.tenor.com/0Q0Q0Q0Q0Q0AAAAC/mimikyu-spin.gif" width="140" alt="Mimikyu girando no vinil"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" alt="Rodapé laranja"/>
+  <p><strong>⭐ Obrigado por visitar meu perfil!</strong></p>
+  <p><em>Transformando conhecimento em projetos.</em></p>
+</div>
