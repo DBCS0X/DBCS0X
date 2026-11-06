@@ -60,10 +60,10 @@
   <a href="https://github.com/DBCS0X">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700"/>
   </a>
-  <a href="COLOQUE_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/dennis-brayan-conceição-da-silva">
     <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:dennisbrayan722@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-FF4500?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/><br/>
