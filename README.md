@@ -78,7 +78,6 @@
   </a>
   <br/><br/>
 
-    <!-- Mimikyu girando no estilo vinil -->
   <img src="https://media1.tenor.com/m/cJAKpAP9gqQAAAAd/mimikyu-pokemon.gif" width="140" alt="Mimikyu girando"/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" alt="Rodapé laranja"/>
