@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/DBCS0X">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Dennis!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Criando." alt="Animação de apresentação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Dennis+Brayan!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Criando." alt="Animação de apresentação"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Universidade-UDF-FF4500?style=plastic"/>
