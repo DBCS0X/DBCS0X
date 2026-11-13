@@ -80,8 +80,7 @@
 
  <h2 align="center">🎮 Gostos e hobbies</h2>
 <p align="center">
-  Fora do código eu sou bem de boa: <strong>Pokémon</strong> é paixão antiga, adoro <strong>RPG</strong> e sou fã de <strong>Soulslike</strong> (aquele "só mais uma tentativa" que vira 3 da manhã).  
-  Nada melhor do que um bom game depois de debugar um bug chato.
+  Fora do código eu sou bem de boa: <strong>Pokémon</strong> é paixão antiga, adoro <strong>RPG</strong> e sou fã de <strong>Soulslike</strong>, com as vezes jogando até as 2 da manhã, geralmente prefiro codar em Python e meus jogos de pokemon favorito da franquia são <strong>Pokémon Fire Red</strong>, <strong>Pokémon X e Y</strong>, <strong>Pokémon Esmerald</strong>, <strong>Pokémon Sword</strong> e <strong>Pokémon Scarlet e Violet</strong>.
 </p>
 
 <h3 align="center">⚡ Meu time Pokémon favorito</h3>
