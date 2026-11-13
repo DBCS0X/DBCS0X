@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/CSS-FFA500?style=plastic&logo=css3&logoColor=black"/>
 </div>
 
-<h2 align="center">📂 Projetos em destaque</h2>
-
 <h3 align="center">🐍 Desafio Colaborativo Git</h3>
 <p align="center">
   Projeto em Python focado em praticar trabalho em equipe de verdade.  
