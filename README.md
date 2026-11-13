@@ -1,11 +1,12 @@
+
 <div align="center">
 <a href="https://github.com/DBCS0X">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Dennis+Brayan!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Criando." alt="Animação de apresentação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Dennis+Brayan!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Criando." alt="Animação de apresentação"/>
 </a>
 <br/><br/>
-<img src="https://img.shields.io/badge/Universidade-UDF-FF4500?style=plastic"/>
-<img src="https://img.shields.io/badge/Curso-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-FF8C00?style=plastic"/>
-<img src="https://img.shields.io/badge/Per%C3%ADodo-2%C2%BA-FFD700?style=plastic"/>
+<img src="https://img.shields.io/badge/Universidade-UDF-49336B?style=plastic"/>
+<img src="https://img.shields.io/badge/Curso-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-39845B?style=plastic"/>
+<img src="https://img.shields.io/badge/Per%C3%ADodo-2%C2%BA-55A9D6?style=plastic"/>
 </div>
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
@@ -27,10 +28,10 @@
   <img src="https://iconic-api.onrender.com/dark/github" width="52" height="52" alt="GitHub"/>
   <img src="https://iconic-api.onrender.com/dark/vscode" width="52" height="52" alt="VS Code"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Python-FF8C00?style=plastic&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-FF4500?style=plastic&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-FFD700?style=plastic&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS-FFA500?style=plastic&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-49336B?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-39845B?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-55A9D6?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-A78BFA?style=plastic&logo=css3&logoColor=white"/>
 </div>
 
 <h3 align="center">🐍 Desafio Colaborativo Git</h3>
@@ -39,7 +40,7 @@
   Foi essencial pra dominar o fluxo completo do Git: branches, pull requests, revisão de código e resolução de conflitos num ambiente colaborativo real.<br/><br/>
   <strong>Tecnologias:</strong> Python, Git e GitHub.<br/>
   <a href="https://github.com/DBCS0X/Desafio_colaborativo_Git">
-    <img src="https://img.shields.io/badge/Ver%20projeto-FF8C00?style=plastic&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver%20projeto-49336B?style=plastic&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -49,7 +50,7 @@
   O foco foi aplicar conceitos de modelagem de dados e lógica de programação num cenário próximo do mundo real.<br/><br/>
   <strong>Tecnologias:</strong> Python e Modelagem de Dados.<br/>
   <a href="https://github.com/DBCS0X/MVE-MOELO-DE-VENDAS-E-ESTOQUE">
-    <img src="https://img.shields.io/badge/Ver%20projeto-FF4500?style=plastic&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver%20projeto-39845B?style=plastic&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -66,17 +67,17 @@
 <h2 align="center">📫 Entre em contato</h2>
 <div align="center">
   <a href="https://github.com/DBCS0X">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/GitHub-49336B?style=plastic&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dennis-brayan-conceição-da-silva">
-    <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=plastic&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-55A9D6?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dennisbrayan722@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-FF4500?style=plastic&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-E8A6C8?style=plastic&logo=gmail&logoColor=white"/>
   </a>
   <br/><br/>
 
- <h2 align="center">🎮 Gostos e hobbies</h2>
+<h2 align="center">🎮 Gostos e hobbies</h2>
 <p align="center">
   Fora do código eu sou bem de boa: <strong>Pokémon</strong> é paixão antiga, adoro <strong>RPG</strong> e sou fã de <strong>Soulslike</strong>, com as vezes jogando até as 2 da manhã, geralmente prefiro codar em Python e meus jogos de pokemon favorito da franquia são <strong>Pokémon Fire Red</strong>, <strong>Pokémon X e Y</strong>, <strong>Pokémon Esmerald</strong>, <strong>Pokémon Sword</strong> e <strong>Pokémon Scarlet e Violet</strong>.
 </p>
@@ -125,6 +126,6 @@
   <img src="https://media1.tenor.com/m/cJAKpAP9gqQAAAAd/mimikyu-pokemon.gif" width="140" alt="Mimikyu girando"/>
   <br/>
 </div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" alt="Rodapé laranja"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=49336B&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
   <p><strong>⭐ Obrigado por visitar meu perfil!</strong></p>
 </div>
