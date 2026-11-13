@@ -130,8 +130,56 @@
   </a>
   <br/><br/>
 
+ <h2 align="center">🎮 Gostos e hobbies</h2>
+<p align="center">
+  Fora do código eu sou bem de boa: <strong>Pokémon</strong> é paixão antiga, adoro <strong>RPG</strong> e sou fã de <strong>Soulslike</strong> (aquele "só mais uma tentativa" que vira 3 da manhã).  
+  Nada melhor do que um bom game depois de debugar um bug chato.
+</p>
+
+<h3 align="center">⚡ Meu time Pokémon favorito</h3>
+<p align="center">
+  Esse é o time que eu sempre levo no coração (e nas batalhas):
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png" width="100" alt="Mimikyu"/><br/>
+        <strong>Mimikyu</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png" width="100" alt="Absol"/><br/>
+        <strong>Absol</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png" width="100" alt="Gardevoir"/><br/>
+        <strong>Gardevoir</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png" width="100" alt="Mawile"/><br/>
+        <strong>Mawile</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png" width="100" alt="Venusaur"/><br/>
+        <strong>Venusaur</strong>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png" width="100" alt="Lapras"/><br/>
+        <strong>Lapras</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://media1.tenor.com/m/cJAKpAP9gqQAAAAd/mimikyu-pokemon.gif" width="140" alt="Mimikyu girando"/>
   <br/>
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" alt="Rodapé laranja"/>
   <p><strong>⭐ Obrigado por visitar meu perfil!</strong></p>
 </div>
